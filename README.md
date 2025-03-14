@@ -57,7 +57,7 @@
 ### 🌍 Connect with Me  
 <p align="center">
   <a href="https://github.com/ResX-Official"><img src="https://img.shields.io/badge/GitHub-ResX-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/ResX-Official"><img src="https://img.shields.io/badge/Twitter-ResX-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/Restoration332"><img src="https://img.shields.io/badge/Twitter-ResX-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
 
