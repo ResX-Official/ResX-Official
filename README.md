@@ -56,9 +56,9 @@
 
 ### 🌍 Connect with Me  
 <p align="center">
-  <a href="https://github.com/YOUR-NEW-USERNAME"><img src="https://img.shields.io/badge/GitHub-ResX-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-ResX-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-ResX-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ResX-Official"><img src="https://img.shields.io/badge/GitHub-ResX-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/ResX_Official"><img src="https://img.shields.io/badge/Twitter-ResX-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
 </p>
 
 ---
