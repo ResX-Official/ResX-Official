@@ -63,16 +63,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ResX-Official&show_icons=true&theme=dark&bg_color=0A192F&text_color=00E6FF" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ResX-Official&theme=dark&background=0A192F&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResX-Official&layout=compact&theme=dark&bg_color=0A192F&text_color=00E6FF" alt="Top Languages">
-</p>
 
----
 
 💡 *"Code, Hack, Build, and Innovate"*  
 🔥 *Let's build the future together!*  
