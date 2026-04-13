@@ -65,6 +65,6 @@
 
 
 
-💡 *"Code, Hack, Build, and Innovate"*  
-🔥 *Let's build the future together!*  
+ *"Code, Hack, Build, and Innovate"*  
+ *Let's build the future together!*  
 
