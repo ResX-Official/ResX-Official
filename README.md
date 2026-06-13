@@ -5,7 +5,7 @@
 <h3 align="center">Full-Stack Engineer | Cybersecurity Expert | Blockchain Dev | Hacker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Mastering+the+art+of+coding!;Full-stack+developer+ %F0%9F%94%A5;Blockchain+%26+Web3+Expert;Cybersecurity+%7C+Ethical+Hacking+%E2%9A%A1;Building+the+future+of+tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&lines=Mastering+the+art+of+coding!;Full-stack+developer+%F0%9F%94%A5;Blockchain+%26+Web3+Expert;Cybersecurity+%7C+Ethical+Hacking+%E2%9A%A1;Building+the+future+of+tech!">
 </p>
 
 ---
